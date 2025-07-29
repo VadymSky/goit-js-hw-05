@@ -17,7 +17,7 @@ const clients = [
   },
   {
     name: "Ross Vazquez",
-    gend: "male",
+    gender: "male",
     balance: 3793
   },
   {
