@@ -3,7 +3,7 @@ const getUserNames = users => users.map(user => user.name);
 const usersTask1 = [
   {
     name: "Moore Hensley",
-    mail: "moorehensley@indexia.com",
+    email: "moorehensley@indexia.com",
     balance: 2811
   },
   {
